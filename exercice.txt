@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8" />
+        <title>Exercice 1</title>
+    </head>
+
+    <body>
+    C'est mon exercice, j'ai choisi d'utiliser le langage HTML pour ne pas perdre la main ( sa fais longtemps que je ne l'ai pas utilisé)
+
+    </body>
+</html>
