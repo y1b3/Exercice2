@@ -8,5 +8,7 @@
     <body>
     C'est mon exercice, j'ai choisi d'utiliser le langage HTML pour ne pas perdre la main ( sa fais longtemps que je ne l'ai pas utilisé)
 
+    Ce cours est super bien fait!
+
     </body>
 </html>

@@ -7,5 +7,7 @@
 
     <body>
     Voici le 2èmr fichier pour mon exercice du cours sur Git et Github, j'éspere avoir bien fait :)
+
+    Bon courage au correcteur!
     </body>
 </html>
